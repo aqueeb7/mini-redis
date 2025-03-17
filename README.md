@@ -28,7 +28,7 @@ npm install
 ### 1. Start the MiniRedis server
 
 ```sh
-node server/tcpServer.js
+node src/server.js
 ```
 
 This starts the server on **port 6379**.
