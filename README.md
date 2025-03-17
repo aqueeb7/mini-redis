@@ -54,7 +54,6 @@ SET mykey hello
 OK
 GET mykey
 hello
-0
 ```
 
 ## Project Structure
