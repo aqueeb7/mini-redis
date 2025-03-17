@@ -4,7 +4,7 @@ MiniRedis is a lightweight in-memory key-value store built using Node.js with TC
 
 ## Features
 
-- Supports basic Redis commands: `SET`, `GET`, `DEL`, `EXISTS`
+- Supports basic Redis commands: `SET`, `GET`
 - TCP-based client-server architecture
 - Append-only file (AOF) persistence for data recovery
 
