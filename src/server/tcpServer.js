@@ -21,7 +21,7 @@ const server = net.createServer((socket) => {
 
       command = command.trim();
       if (command.length > 0) {
-        const response = handleCommand(store, aof, command);
+        const response = handleCommand(store, aof, command, socket);
         socket.write(response + "\r\n> "); // Ensure proper formatting
       }
     }
