@@ -13,7 +13,7 @@ MiniRedis is a lightweight in-memory key-value store built using Node.js with TC
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/miniredis.git
+git clone https://github.com/aqueeb7/miniredis.git
 cd miniredis
 ```
 
